@@ -12,8 +12,8 @@ h1{
 	font-style: italic;
 	font-family: fantasy;
 	font-size: 3em;
-	border-bottom: 2px solid pink;
-	border-right: 2px solid pink;
+	border-bottom: 2px #FF8DA1;
+	border-right: 2px #FF8DA1;
 	width: 400px;
 	text-align: center;
 	box-shadow: 4px 4px 5px #888888;
